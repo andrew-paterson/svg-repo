@@ -1,0 +1,1 @@
+export { default } from 'svg-repo/svg/icon-vertical-dots.js;
