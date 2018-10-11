@@ -1,1 +1,1 @@
-export { default } from 'svg-repo/svg/icon-clock.js;
+export { default } from 'svg-repo/components/svg/icon-clock';

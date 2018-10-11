@@ -1,1 +1,1 @@
-export { default } from 'svg-repo/svg/icon-collapse-menu.js;
+export { default } from 'svg-repo/components/svg/icon-collapse-menu';

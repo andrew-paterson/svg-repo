@@ -1,1 +1,1 @@
-export { default } from 'svg-repo/svg/rotating-bar.js;
+export { default } from 'svg-repo/components/svg/rotating-bar';

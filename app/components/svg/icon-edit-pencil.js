@@ -1,1 +1,1 @@
-export { default } from 'svg-repo/svg/icon-edit-pencil.js;
+export { default } from 'svg-repo/components/svg/icon-edit-pencil';

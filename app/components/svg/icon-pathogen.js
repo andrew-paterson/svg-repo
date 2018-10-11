@@ -1,1 +1,1 @@
-export { default } from 'svg-repo/svg/icon-pathogen.js;
+export { default } from 'svg-repo/components/svg/icon-pathogen';

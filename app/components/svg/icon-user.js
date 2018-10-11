@@ -1,1 +1,1 @@
-export { default } from 'svg-repo/svg/icon-user.js;
+export { default } from 'svg-repo/components/svg/icon-user';

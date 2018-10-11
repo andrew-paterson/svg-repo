@@ -1,1 +1,1 @@
-export { default } from 'svg-repo/svg/icon-arrow-down.js;
+export { default } from 'svg-repo/components/svg/icon-arrow-down';

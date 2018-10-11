@@ -1,1 +1,1 @@
-export { default } from 'svg-repo/svg/icon-curved-arrow-right.js;
+export { default } from 'svg-repo/components/svg/icon-curved-arrow-right';

@@ -1,1 +1,1 @@
-export { default } from 'svg-repo/svg/icon-vertical-dots.js;
+export { default } from 'svg-repo/components/svg/icon-vertical-dots';

@@ -1,1 +1,1 @@
-export { default } from 'svg-repo/svg/radio-button-checkbox-graphics.js;
+export { default } from 'svg-repo/components/svg/radio-button-checkbox-graphics';

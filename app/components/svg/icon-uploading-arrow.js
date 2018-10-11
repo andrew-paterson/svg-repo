@@ -1,1 +1,1 @@
-export { default } from 'svg-repo/svg/icon-uploading-arrow.js;
+export { default } from 'svg-repo/components/svg/icon-uploading-arrow';

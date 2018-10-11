@@ -1,1 +1,6 @@
-export { default } from 'svg-repo/svg/icon-alert';
+import Component from '@ember/component';
+
+export default Component.extend({
+  classNames: ['svg'],
+  classNameBindings: ['class'],
+});

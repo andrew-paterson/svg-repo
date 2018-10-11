@@ -1,1 +1,1 @@
-export { default } from 'svg-repo/svg/icon-bar-graph.js;
+export { default } from 'svg-repo/components/svg/icon-bar-graph';

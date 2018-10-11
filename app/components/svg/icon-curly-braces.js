@@ -1,1 +1,1 @@
-export { default } from 'svg-repo/svg/icon-curly-braces.js;
+export { default } from 'svg-repo/components/svg/icon-curly-braces';
