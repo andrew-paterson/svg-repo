@@ -1,5 +1,5 @@
 import Component from '@ember/component';
-import layout from '../../templates/components/svg/view-results-graphic.js';
+import layout from '../../templates/components/svg/view-results-graphic';
 
 export default Component.extend({
   layout,

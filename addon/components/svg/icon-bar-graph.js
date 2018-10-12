@@ -1,5 +1,5 @@
 import Component from '@ember/component';
-import layout from '../../templates/components/svg/icon-bar-graph.js';
+import layout from '../../templates/components/svg/icon-bar-graph';
 
 export default Component.extend({
   layout,

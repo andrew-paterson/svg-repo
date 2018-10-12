@@ -1,5 +1,5 @@
 import Component from '@ember/component';
-import layout from '../../templates/components/svg/icon-search.js';
+import layout from '../../templates/components/svg/icon-search';
 
 export default Component.extend({
   layout,
