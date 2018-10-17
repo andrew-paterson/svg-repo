@@ -3,6 +3,5 @@ import layout from '../../templates/components/svg/icon-dash';
 
 export default Component.extend({
   layout,
-  classNames: ['svg'],
-  classNameBindings: ['class'],
+  tagName: '',
 });

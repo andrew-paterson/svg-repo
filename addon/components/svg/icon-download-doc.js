@@ -3,5 +3,5 @@ import layout from '../../templates/components/svg/icon-download-doc';
 
 export default Component.extend({
   layout,
-  classNames: ['svg']
+  tagName: '',
 });

@@ -3,6 +3,5 @@ import layout from '../../templates/components/svg/icon-ellipsis';
 
 export default Component.extend({
   layout,
-  classNames: ['svg', 'ellipsis'],
-  classNameBindings: ['class'],
+  tagName: '',
 });

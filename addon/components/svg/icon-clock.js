@@ -3,6 +3,5 @@ import layout from '../../templates/components/svg/icon-clock';
 
 export default Component.extend({
   layout,
-  classNames: ['svg', 'clock'],
-  classNameBindings: ['class'],
+  tagName: '',
 });

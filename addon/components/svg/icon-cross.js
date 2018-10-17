@@ -3,6 +3,5 @@ import layout from '../../templates/components/svg/icon-cross';
 
 export default Component.extend({
   layout,
-  classNames: ['svg', 'cross'],
-  classNameBindings: ['class'],
+  tagName: '',
 });

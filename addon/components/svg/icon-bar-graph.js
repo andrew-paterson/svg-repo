@@ -3,6 +3,5 @@ import layout from '../../templates/components/svg/icon-bar-graph';
 
 export default Component.extend({
   layout,
-  classNames: ['svg'],
-  classNameBindings: ['class'],
+  tagName: '',
 });
