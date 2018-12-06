@@ -1,1 +1,1 @@
-export { default } from 'svg-repo/components/svg-repo/icons/icon-flopy-disc';
+export { default } from 'svg-repo/components/svg-repo/icons/icon-floppy-disc';
