@@ -1,7 +1,7 @@
-import Component from '@ember/component';
+import SvgBase from 'svg-repo/components/svg-base';
 import layout from '../../../templates/components/svg-repo/icons/icon-circle';
 
-export default Component.extend({
+export default SvgBase.extend({
   tagName: '',
   layout
 });
