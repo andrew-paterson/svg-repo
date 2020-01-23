@@ -1,1 +1,0 @@
-export { default } from 'svg-repo/svg/view-results-graphic.js;
