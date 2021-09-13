@@ -1,6 +1,6 @@
 {
   "name": "svg-repo",
-  "version": "1.0.4",
+  "version": "1.0.11",
   "description": "The default blueprint for ember-cli addons.",
   "keywords": [
     "ember-addon"
@@ -47,7 +47,8 @@
     "eslint-plugin-ember": "^5.0.0",
     "eslint-plugin-node": "^6.0.1",
     "loader.js": "^4.2.3",
-    "sass": "^1.23.6"
+    "sass": "^1.23.6",
+    "tag-and-release": "^1.0.12"
   },
   "engines": {
     "node": "^4.5 || 6.* || >= 7.*"
