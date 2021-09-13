@@ -1,50 +1,7 @@
-svg-repo
-==============================================================================
+# Make from svg
 
-[Short description of the addon.]
+Takes a single SVG file and generates the addon component files that are required for it tio work as an Ember component, and with the relevant code additions.
 
-Installation
-------------------------------------------------------------------------------
+`node make-from-svg [path-to-svg-file] [subdir]`
 
-```
-ember install svg-repo
-```
-
-
-Usage
-------------------------------------------------------------------------------
-
-[Longer description of how to use the addon in apps.]
-
-
-Contributing
-------------------------------------------------------------------------------
-
-### Installation
-
-* `git clone <repository-url>`
-* `cd svg-repo`
-* `npm install`
-
-### Linting
-
-* `npm run lint:js`
-* `npm run lint:js -- --fix`
-
-### Running tests
-
-* `ember test` – Runs the test suite on the current Ember version
-* `ember test --server` – Runs the test suite in "watch mode"
-* `ember try:each` – Runs the test suite against multiple Ember versions
-
-### Running the dummy application
-
-* `ember serve`
-* Visit the dummy application at [http://localhost:4200](http://localhost:4200).
-
-For more information on using ember-cli, visit [https://ember-cli.com/](https://ember-cli.com/).
-
-License
-------------------------------------------------------------------------------
-
-This project is licensed under the [MIT License](LICENSE.md).
+`subDir` refers to which sub-directory of `/svg-repo` to save the file into. It defaults to `icons` if not supplied.
