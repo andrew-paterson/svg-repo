@@ -1,6 +1,6 @@
 {
   "name": "svg-repo",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "The default blueprint for ember-cli addons.",
   "keywords": [
     "ember-addon"
