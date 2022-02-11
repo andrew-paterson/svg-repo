@@ -3,22 +3,22 @@ import { setupRenderingTest } from 'ember-qunit';
 import { render } from '@ember/test-helpers';
 import hbs from 'htmlbars-inline-precompile';
 
-module('Integration | Component | svg-repo/icons/icon-download.js', function(hooks) {
+module('Integration | Component | svg-repo/icons/icon-download', function(hooks) {
   setupRenderingTest(hooks);
 
   test('it renders', async function(assert) {
     // Set any properties with this.set('myProperty', 'value');
     // Handle any actions with this.set('myAction', function(val) { ... });
 
-    await render(hbs`{{svg-repo/icons/icon-download.js}}`);
+    await render(hbs`{{svg-repo/icons/icon-download}}`);
 
     assert.equal(this.element.textContent.trim(), '');
 
     // Template block usage:
     await render(hbs`
-      {{#svg-repo/icons/icon-download.js}}
+      {{#svg-repo/icons/icon-download}}
         template block text
-      {{/svg-repo/icons/icon-download.js}}
+      {{/svg-repo/icons/icon-download}}
     `);
 
     assert.equal(this.element.textContent.trim(), 'template block text');
