@@ -1,3 +1,4 @@
 **/.git
 **/node_modules
+package.json
 addon-test-support/test-helpers/htmlminifier.min.js
