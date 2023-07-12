@@ -1,0 +1,11 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 {{this.svgWidth}} {{this.svgHeight}}"
+  class="single-colour icon-three dots"
+  data-test-icon="icon-ellipsis"
+  ...attributes
+>
+  {{#each this.circles as |circleEl|}}
+    <circle cx="{{circleEl.cx}}" cy="{{circleEl.cy}}" r="{{circleEl.radius}}" />
+  {{/each}}
+</svg>

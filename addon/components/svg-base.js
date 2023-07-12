@@ -7,6 +7,6 @@ export default Component.extend({
   tagName: '',
 
   computedVectorEffect: computed('vectorEffect', function() {
-    return this.get('vectorEffect') || 'non-scaling-stroke';
+    return this.vectorEffect || 'non-scaling-stroke';
   }),
 });
