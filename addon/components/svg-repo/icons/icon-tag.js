@@ -3,5 +3,5 @@ import layout from '../../../templates/components/svg-repo/icons/icon-tag';
 
 export default SvgBase.extend({
   layout,
-  tagName: ''
+  tagName: '',
 });

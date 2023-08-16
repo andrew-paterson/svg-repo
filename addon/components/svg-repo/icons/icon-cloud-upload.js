@@ -3,5 +3,5 @@ import layout from '../../../templates/components/svg-repo/icons/icon-cloud-uplo
 
 export default Component.extend({
   layout,
-  tagName: ''
+  tagName: '',
 });

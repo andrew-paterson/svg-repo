@@ -3,5 +3,5 @@ import layout from '../../../templates/components/svg-repo/icons/icon-circle';
 
 export default SvgBase.extend({
   tagName: '',
-  layout
+  layout,
 });

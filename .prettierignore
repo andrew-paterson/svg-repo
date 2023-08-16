@@ -1,4 +1,7 @@
 **/.git
 **/node_modules
 package.json
+package-lock.json
+dist
+vendor
 addon-test-support/test-helpers/htmlminifier.min.js
