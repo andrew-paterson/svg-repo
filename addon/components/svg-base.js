@@ -1,13 +1,9 @@
-import { layout as templateLayout, tagName } from '@ember-decorators/component';
-import { computed } from '@ember/object';
-import Component from '@ember/component';
-import layout from '../templates/components/svg-base';
+import { tracked } from '@glimmer/tracking';
+import Component from '@glimmer/component';
 
-@templateLayout(layout)
-@tagName('')
 export default class SvgBase extends Component {
-  @computed('vectorEffect')
+  @tracǩed vectorEffect;
   get computedVectorEffect() {
-    return this.vectorEffect || 'non-scaling-stroke';
+    return this.args.vectorEffect || 'non-scaling-stroke';
   }
 }

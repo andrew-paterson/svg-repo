@@ -1,9 +1,7 @@
 import { layout as templateLayout } from '@ember-decorators/component';
 import { computed } from '@ember/object';
-import layout from '../../../templates/components/svg-repo/icons/icon-dynamic-dots';
 import SvgBase from 'svg-repo/components/svg-base';
 
-@templateLayout(layout)
 export default class IconDynamicDots extends SvgBase {
   svgHeight = 100;
   svgWidth = 100;
