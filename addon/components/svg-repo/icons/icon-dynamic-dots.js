@@ -1,20 +1,16 @@
-import { layout as templateLayout } from '@ember-decorators/component';
-import { computed } from '@ember/object';
 import SvgBase from 'svg-repo/components/svg-base';
-
+import { tracked } from '@glimmer/tracking';
 export default class IconDynamicDots extends SvgBase {
-  svgHeight = 100;
-  svgWidth = 100;
-  spacingfactor = 0.1; // Factor of the radius of a circle
-  maxRows = 3;
+  @tracked svgHeight = this.args.svgHeight || 100;
+  @tracked svgWidth = this.args.svgWidth || 100;
+  @tracked spacingfactor = this.args.spacingfactor || 0.1; // Factor of the radius of a circle
+  @tracked maxRows = this.args.maxRows || 3;
 
-  @computed('rows', 'svgHeight', 'maxRows', 'spacingfactor')
   get circles() {
     const circleDiameter =
-      this.svgHeight /
-      (this.maxRows + this.spacingfactor * (this.maxRows - 1));
+      this.svgHeight / (this.maxRows + this.spacingfactor * (this.maxRows - 1));
     const circles = [];
-    this.rows.forEach((row, rowIndex) => {
+    this.args.rows.forEach((row, rowIndex) => {
       for (var colIndex = 0; colIndex < row; colIndex++) {
         const circle = { radius: Math.floor(circleDiameter / 2) };
         circle.cx = Math.floor(
