@@ -30,7 +30,8 @@
   "dependencies": {
     "@babel/core": "^7.23.6",
     "ember-cli-babel": "^8.2.0",
-    "ember-cli-htmlbars": "^6.3.0"
+    "ember-cli-htmlbars": "^6.3.0",
+    "ember-test-selectors": "git+ssh://git@github.com/mainmatter/ember-test-selectors.git#cf1ce42fed939bb6a66634cb91dc77dc931b036a"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.23.3",
