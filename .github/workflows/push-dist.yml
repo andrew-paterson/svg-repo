@@ -29,10 +29,10 @@ jobs:
         run: pnpm install --frozen-lockfile
       - name: Build
         run: |
-          cd ./addon
+          cd ./svg-repo
           pnpm run build
       - uses: kategengler/put-built-npm-package-contents-on-branch@v2.0.0
         with:
           branch: dist
           token: ${{ secrets.GITHUB_TOKEN }}
-          working-directory: 'addon'
+          working-directory: "svg-repo"
