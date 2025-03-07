@@ -168,9 +168,6 @@
   "ember": {
     "edition": "octane"
   },
-  "peerDependencies": {
-    "ember-source": ">= 4.0.0"
-  },
   "exports": {
     ".": "./dist/index.js",
     "./*": "./dist/*.js",

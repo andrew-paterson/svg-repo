@@ -1,4 +1,4 @@
-import SvgBase from '../../svg-base';
+import SvgBase from '../../svg-base.js';
 import { tracked } from '@glimmer/tracking';
 export default class IconDynamicDots extends SvgBase {
   @tracked svgHeight = this.args.svgHeight || 100;
