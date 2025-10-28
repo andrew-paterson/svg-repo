@@ -106,6 +106,7 @@
       "./components/svg-repo/icons/icon-ellipsis.js": "./dist/_app_/components/svg-repo/icons/icon-ellipsis.js",
       "./components/svg-repo/icons/icon-envelope.js": "./dist/_app_/components/svg-repo/icons/icon-envelope.js",
       "./components/svg-repo/icons/icon-external-link.js": "./dist/_app_/components/svg-repo/icons/icon-external-link.js",
+      "./components/svg-repo/icons/icon-file-image.js": "./dist/_app_/components/svg-repo/icons/icon-file-image.js",
       "./components/svg-repo/icons/icon-file.js": "./dist/_app_/components/svg-repo/icons/icon-file.js",
       "./components/svg-repo/icons/icon-filter.js": "./dist/_app_/components/svg-repo/icons/icon-filter.js",
       "./components/svg-repo/icons/icon-flip-horizontal.js": "./dist/_app_/components/svg-repo/icons/icon-flip-horizontal.js",
