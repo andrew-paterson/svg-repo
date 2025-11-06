@@ -1,0 +1,1 @@
+{"version":3,"file":"icon-info.js","sources":["../../../../src/components/svg-repo/icons/icon-info.js"],"sourcesContent":["import SvgBase from '../../svg-base.js';\n\nexport default class IconInfo extends SvgBase {}\n"],"names":["IconInfo","SvgBase","setComponentTemplate","TEMPLATE"],"mappings":";;;;;;AAEe,MAAMA,QAAQ,SAASC,OAAO,CAAC;AAAEC,oBAAA,CAAAC,QAAA,EAA3BH,QAAQ,CAAA;;;;"}

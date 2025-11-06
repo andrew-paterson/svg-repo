@@ -1,0 +1,1 @@
+{"version":3,"file":"icon-key.js","sources":["../../../../src/components/svg-repo/icons/icon-key.js"],"sourcesContent":["import SvgBase from '../../svg-base.js';\n\nexport default class IconKey extends SvgBase {}\n"],"names":["IconKey","SvgBase","setComponentTemplate","TEMPLATE"],"mappings":";;;;;;AAEe,MAAMA,OAAO,SAASC,OAAO,CAAC;AAAEC,oBAAA,CAAAC,QAAA,EAA1BH,OAAO,CAAA;;;;"}

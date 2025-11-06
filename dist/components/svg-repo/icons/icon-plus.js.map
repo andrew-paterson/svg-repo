@@ -1,0 +1,1 @@
+{"version":3,"file":"icon-plus.js","sources":["../../../../src/components/svg-repo/icons/icon-plus.js"],"sourcesContent":["import SvgBase from '../../svg-base.js';\n\nexport default class IconPlus extends SvgBase {}\n"],"names":["IconPlus","SvgBase","setComponentTemplate","TEMPLATE"],"mappings":";;;;;;AAEe,MAAMA,QAAQ,SAASC,OAAO,CAAC;AAAEC,oBAAA,CAAAC,QAAA,EAA3BH,QAAQ,CAAA;;;;"}

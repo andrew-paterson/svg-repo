@@ -1,0 +1,1 @@
+{"version":3,"file":"icon-cog.js","sources":["../../../../src/components/svg-repo/icons/icon-cog.js"],"sourcesContent":["import SvgBase from '../../svg-base.js';\n\nexport default class IconCog extends SvgBase {}\n"],"names":["IconCog","SvgBase","setComponentTemplate","TEMPLATE"],"mappings":";;;;;;AAEe,MAAMA,OAAO,SAASC,OAAO,CAAC;AAAEC,oBAAA,CAAAC,QAAA,EAA1BH,OAAO,CAAA;;;;"}

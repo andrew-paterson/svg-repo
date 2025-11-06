@@ -1,0 +1,1 @@
+{"version":3,"file":"icon-dash.js","sources":["../../../../src/components/svg-repo/icons/icon-dash.js"],"sourcesContent":["import SvgBase from '../../svg-base.js';\n\nexport default class IconDash extends SvgBase {}\n"],"names":["IconDash","SvgBase","setComponentTemplate","TEMPLATE"],"mappings":";;;;;;AAEe,MAAMA,QAAQ,SAASC,OAAO,CAAC;AAAEC,oBAAA,CAAAC,QAAA,EAA3BH,QAAQ,CAAA;;;;"}

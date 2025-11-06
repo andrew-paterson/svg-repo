@@ -1,0 +1,1 @@
+{"version":3,"file":"icon-home.js","sources":["../../../../src/components/svg-repo/icons/icon-home.js"],"sourcesContent":["import SvgBase from '../../svg-base.js';\n\nexport default class IconHome extends SvgBase {}\n"],"names":["IconHome","SvgBase","setComponentTemplate","TEMPLATE"],"mappings":";;;;;;AAEe,MAAMA,QAAQ,SAASC,OAAO,CAAC;AAAEC,oBAAA,CAAAC,QAAA,EAA3BH,QAAQ,CAAA;;;;"}

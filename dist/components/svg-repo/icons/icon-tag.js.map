@@ -1,0 +1,1 @@
+{"version":3,"file":"icon-tag.js","sources":["../../../../src/components/svg-repo/icons/icon-tag.js"],"sourcesContent":["import SvgBase from '../../svg-base.js';\n\nexport default class IconTag extends SvgBase {}\n"],"names":["IconTag","SvgBase","setComponentTemplate","TEMPLATE"],"mappings":";;;;;;AAEe,MAAMA,OAAO,SAASC,OAAO,CAAC;AAAEC,oBAAA,CAAAC,QAAA,EAA1BH,OAAO,CAAA;;;;"}

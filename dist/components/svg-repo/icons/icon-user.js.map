@@ -1,0 +1,1 @@
+{"version":3,"file":"icon-user.js","sources":["../../../../src/components/svg-repo/icons/icon-user.js"],"sourcesContent":["import SvgBase from '../../svg-base.js';\n\nexport default class IconUser extends SvgBase {}\n"],"names":["IconUser","SvgBase","setComponentTemplate","TEMPLATE"],"mappings":";;;;;;AAEe,MAAMA,QAAQ,SAASC,OAAO,CAAC;AAAEC,oBAAA,CAAAC,QAAA,EAA3BH,QAAQ,CAAA;;;;"}

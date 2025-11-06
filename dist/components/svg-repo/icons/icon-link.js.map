@@ -1,0 +1,1 @@
+{"version":3,"file":"icon-link.js","sources":["../../../../src/components/svg-repo/icons/icon-link.js"],"sourcesContent":["import SvgBase from '../../svg-base.js';\n\nexport default class IconLink extends SvgBase {}\n"],"names":["IconLink","SvgBase","setComponentTemplate","TEMPLATE"],"mappings":";;;;;;AAEe,MAAMA,QAAQ,SAASC,OAAO,CAAC;AAAEC,oBAAA,CAAAC,QAAA,EAA3BH,QAAQ,CAAA;;;;"}

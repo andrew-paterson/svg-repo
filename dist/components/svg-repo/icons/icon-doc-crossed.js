@@ -1,0 +1,11 @@
+import SvgBase from '../../svg-base.js';
+import { precompileTemplate } from '@ember/template-compilation';
+import { setComponentTemplate } from '@ember/component';
+
+var TEMPLATE = precompileTemplate("<svg\n  xmlns=\"http://www.w3.org/2000/svg\"\n  viewBox=\"0 0 34 40\"\n  class=\"icon-doc-crossed\"\n  data-test-icon=\"icon-doc-crossed\"\n  ...attributes\n><path d=\"M32 8l-6-6 -2-2H0v40h34V10L32 8zM32 38H2V2h22v8h8V38z\" /><path\n    d=\"M19.2 20.7l5.7-5.7c0.6-0.6 0.6-1.5 0-2 -0.6-0.6-1.5-0.6-2 0l-5.7 5.7 -5.7-5.7c-0.6-0.6-1.5-0.6-2 0 -0.6 0.6-0.6 1.5 0 2l5.7 5.7 -5.7 5.7c-0.6 0.6-0.6 1.5 0 2 0.3 0.3 0.6 0.5 1 0.5 0.4 0 0.7-0.1 1-0.4l5.7-5.7 5.7 5.7c0.3 0.3 0.7 0.4 1 0.4s0.7-0.1 1-0.4c0.6-0.6 0.6-1.5 0-2L19.2 20.7z\"\n  /></svg>");
+
+class IconDocCrossed extends SvgBase {}
+setComponentTemplate(TEMPLATE, IconDocCrossed);
+
+export { IconDocCrossed as default };
+//# sourceMappingURL=icon-doc-crossed.js.map

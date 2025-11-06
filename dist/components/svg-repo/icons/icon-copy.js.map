@@ -1,0 +1,1 @@
+{"version":3,"file":"icon-copy.js","sources":["../../../../src/components/svg-repo/icons/icon-copy.js"],"sourcesContent":["import SvgBase from '../../svg-base.js';\n\nexport default class IconCopy extends SvgBase {}\n"],"names":["IconCopy","SvgBase","setComponentTemplate","TEMPLATE"],"mappings":";;;;;;AAEe,MAAMA,QAAQ,SAASC,OAAO,CAAC;AAAEC,oBAAA,CAAAC,QAAA,EAA3BH,QAAQ,CAAA;;;;"}
