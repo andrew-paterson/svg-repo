@@ -114,6 +114,7 @@
       "./components/svg-repo/icons/icon-floppy-disc.js": "./dist/_app_/components/svg-repo/icons/icon-floppy-disc.js",
       "./components/svg-repo/icons/icon-folder-open.js": "./dist/_app_/components/svg-repo/icons/icon-folder-open.js",
       "./components/svg-repo/icons/icon-folder.js": "./dist/_app_/components/svg-repo/icons/icon-folder.js",
+      "./components/svg-repo/icons/icon-forward.js": "./dist/_app_/components/svg-repo/icons/icon-forward.js",
       "./components/svg-repo/icons/icon-google-g.js": "./dist/_app_/components/svg-repo/icons/icon-google-g.js",
       "./components/svg-repo/icons/icon-home.js": "./dist/_app_/components/svg-repo/icons/icon-home.js",
       "./components/svg-repo/icons/icon-image.js": "./dist/_app_/components/svg-repo/icons/icon-image.js",
